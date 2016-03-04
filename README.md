@@ -1,7 +1,7 @@
-# Send-to-IP
+# pySend-my-ip
 
-Esse pequeno projeto feito em python para enviar o ip publico atual do seu servidor linux com conexão Dsl.
+Esse pequeno projeto feito em python para enviar o ip publico atual do seu servidor linux com conexão Dsl, via e-mail.
 
-Autor @EXPL01T3R0 alterado por @andersonmv.
+Autor @andersonmv.
 
 Para que o script funcione e necessário ter o python 3.4.X ou superior.
